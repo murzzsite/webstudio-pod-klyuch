@@ -1,0 +1,34 @@
+{
+  "siteName": "Сайты под ключ",
+  "siteUrl": "https://murzzsite.github.io/webstudio-pod-klyuch",
+  "lang": "ru",
+  "repo": "murzzsite/webstudio-pod-klyuch",
+  "ref": "P74PAXPRN3",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи о заказе сайтов: стоимость, выбор типа сайта, договор, интернет-магазины, лендинги и поддержка",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Разработка сайтов под ключ",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Опишите задачу, и мы посчитаем стоимость и сроки. Бюджет и сроки фиксируем в договоре, оплата по этапам.",
+  "ctaButton": "Получить расчёт",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "2155c65737bacdd6585e0adf2996f3e5",
+  "previewSecret": "7e1396e2c0ae173c",
+  "theme": {
+    "ink": "var(--ink)",
+    "soft": "var(--navy-soft)",
+    "line": "var(--line)"
+  }
+}

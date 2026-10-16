@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /webstudio-pod-klyuch/blog/preview/
+
+Sitemap: https://murzzsite.github.io/webstudio-pod-klyuch/sitemap.xml
