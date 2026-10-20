@@ -1,5 +1,5 @@
 {
-  "siteName": "Сайты под ключ",
+  "siteName": "Allerhand",
   "siteUrl": "https://murzzsite.github.io/webstudio-pod-klyuch",
   "lang": "ru",
   "repo": "murzzsite/webstudio-pod-klyuch",
@@ -9,12 +9,12 @@
   "blogDescription": "Полезные статьи о заказе сайтов: стоимость, выбор типа сайта, договор, интернет-магазины, лендинги и поддержка",
   "homeTitle": "Полезные статьи",
   "author": {
-    "name": "Разработка сайтов под ключ",
+    "name": "Allerhand",
     "jobTitle": "",
     "type": "Organization"
   },
   "ctaTitle": "Остались вопросы?",
-  "ctaText": "Опишите задачу, и мы посчитаем стоимость и сроки. Бюджет и сроки фиксируем в договоре, оплата по этапам.",
+  "ctaText": "Опишите задачу, и мы посчитаем стоимость и сроки. Домен и хостинг в подарок, гарантия на сайт 6 месяцев.",
   "ctaButton": "Получить расчёт",
   "ctaUrl": "/#contact",
   "disclaimer": "",
@@ -29,6 +29,8 @@
   "theme": {
     "ink": "var(--ink)",
     "soft": "var(--navy-soft)",
-    "line": "var(--line)"
+    "line": "var(--line)",
+    "accent": "var(--gold-dark)",
+    "accent-soft": "var(--gold-soft)"
   }
 }

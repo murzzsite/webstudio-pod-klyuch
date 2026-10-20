@@ -91,4 +91,4 @@
 }
 
 /* тема сайта */
-:root{--b-ink:var(--ink);--b-soft:var(--navy-soft);--b-line:var(--line)}
+:root{--b-ink:var(--ink);--b-soft:var(--navy-soft);--b-line:var(--line);--b-accent:var(--gold-dark);--b-accent-soft:var(--gold-soft)}

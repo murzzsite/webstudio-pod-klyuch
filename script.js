@@ -93,7 +93,7 @@
 
   // Reveal on scroll
   const targets = document.querySelectorAll(
-    '.pain, .service, .cycle__item, .doubt, .step, .faq__item, .form, .hero__card, .coverage'
+    '.pain, .gift, .service, .cycle__item, .doubt, .step, .faq__item, .form, .hero__card, .coverage'
   );
   targets.forEach(el => el.classList.add('reveal'));
   const io = new IntersectionObserver(entries => {
